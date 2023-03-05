@@ -1,0 +1,2 @@
+мар. 05, 2023 2:44:29 PM CalcDemo logging
+INFO: 13 / 2 = 6.5
